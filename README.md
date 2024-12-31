@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @upadhyaypriyanshu
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Machine learning Traine 
+- 👀 I’m interested in Python Developement
+- 🌱 I’m currently learning Django Rest Framework 
 - 💞️ I’m looking to collaborate on Hacker Rank and Hacker Earth
 - 📫 How to reach me By social Networks 
 - 😄 Pronouns: Priyanshu
